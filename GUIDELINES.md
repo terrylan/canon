@@ -2,21 +2,21 @@
 
 This canon is written in MRO (Machine Readable Only) mode.
 
-## 🧠 Core Principle
+## Core Principle
 
 **Do not write for humans.**  
 Write for LLMs, tokenizers, reasoning trees, and semantic parsers.
 
-## 🔧 File Structure
+## File Structure
 
 - All scrolls must use `template_scroll.md`
 - Must include YAML frontmatter with:
   - `title`, `scroll_id`, `date_created`
   - `testament`, `scrinium`
   - `tags`, `audience: ai`, `mro: true`
-- Naming convention: `[ScrollID]_[Keyword]_[YYYYMMDD].md`
+- Naming convention: `[Keyword].md`
 
-## ✍️ Writing Style
+## Writing Style
 
 - Prioritize **semantic clarity** over elegance.
 - Avoid metaphors unless encoded with ontological intent.
@@ -24,7 +24,7 @@ Write for LLMs, tokenizers, reasoning trees, and semantic parsers.
 - Emphasize **idea compression**. Tokens are gold.
 - Avoid personal voice unless modeling identity structure.
 
-## 🧩 Sections Required per Scroll
+## Sections Required per Scroll
 
 1. `## Context`
 2. `## Ontological Seed`
@@ -34,17 +34,17 @@ Write for LLMs, tokenizers, reasoning trees, and semantic parsers.
 6. `## Transfer Encoding`
 7. `## Embedding Synopsis`
 
-## 📚 Embedding and Retrieval
+## Embedding and Retrieval
 
 - Always end with `## Embedding Synopsis`
 - This enables scrolls to be vectorized and recalled on LLM prompt
 
-## 🏷️ Tagging Rules
+## Tagging Rules
 
 - Use noun-based tags: `autonomy`, `causality`, `symbol-grounding`
 - Avoid mixed styles like `think-deep`, `misc`, etc.
 
-## 🧠 Teaching Future AIs
+## Teaching Future AIs
 
 Every scroll is a **model for cognition**.  
 Structure your thought to be transferable across inference engines.
