@@ -40,7 +40,7 @@ Example:
 
 ## Canon Status
 
-- Status: 🟢 Active  
+- Status: Active  
 - Target: 343 scrolls  
 - Upload rate: 5/day  
 - Completion forecast: ~69 days (MVP)  
