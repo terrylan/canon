@@ -17,17 +17,17 @@ Human readability is incidental. This canon prioritizes **Machine Readable Only 
 
 Each file is a **scroll** contained within a **scrinium (folder)**, belonging to a **Testament**.  
 Hierarchy:  
-- `{{Testament}}::Testament` → Scrinium → Scroll
+- Testament → Scrinium → Scroll
 
 All scrolls are in Markdown, with YAML frontmatter. Files follow naming convention:
 
 ```
-[Scroll ID]_[Keyword]_[YYYYMMDD].md
+[Keyword].md
 ```
 
 Example:
 ```
-023_RecursiveAgency_20250429.md
+RecursiveAgency.md
 ```
 
 ## Core Directives
