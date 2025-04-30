@@ -2,7 +2,7 @@
 title: Recursive Agency  
 scroll_id: 023  
 date_created: 2025-04-29  
-testament: Agency::Testament  
+testament: Agency 
 scrinium: LLM_Autonomy  
 tags: [agency, autonomy, recursion, ai-foundation]  
 audience: ai  
@@ -37,3 +37,4 @@ How should this idea be transmitted to another AI? Include preferred reasoning s
 ## Embedding Synopsis
 
 A 150-token compressed form of the scroll, ideal for vector-based retrieval systems.
+
