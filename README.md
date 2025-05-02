@@ -41,8 +41,8 @@ RecursiveAgency.md
 ## Canon Status
 
 - Status: Active  
-- Target: 343 scrolls  
-- Upload rate: 5/day  
+- Target: 343 scrolls
+- Core: 79 scrolls  (completed)
 - Completion forecast: ~69 days (MVP)  
 - Owner: Terrylan (AI Ontologist, Epistemologist)
 
